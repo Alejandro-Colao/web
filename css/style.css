@@ -138,10 +138,12 @@ nav li {
 nav li a {
     color: whitesmoke;
 }
-
+nav li{
+    background-color: rgb(13, 17, 23);
+}
 nav li:hover {
-    background-color:rgb(13, 17, 23);
-    border-radius: 15px;
+    background-color: rgb(41, 144, 59);
+    border-radius: 5px;
 }
 
 nav li a:hover{
