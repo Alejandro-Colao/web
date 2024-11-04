@@ -172,26 +172,12 @@ a {
     padding: 16px;
 }
 
-.bg-azul-o {
+.bg-amarillo {
     background-color: rgb(215, 222, 0);
-}
-
-.bg-azul-c {
-    background-color: rgb(240, 249, 252);
-}
-
-.bg-orange {
-    background-color: orange;
 }
 
 .text-white {
     color: white;
-}
-
-.text-red {
-    color: red;
-    font-size: 30px;
-    background-color: cyan;
 }
 
 footer h1 {
