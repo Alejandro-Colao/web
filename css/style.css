@@ -406,6 +406,7 @@ h1 {
 .col3 {
     float: left;
     width: 33%;
+    height: 33%;
 }
 
 .col3 img {
