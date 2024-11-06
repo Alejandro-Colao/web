@@ -264,7 +264,7 @@ h1 {
 }
 
 #listas .customico li li {
-    list-style-image: url("../img/corazon.png");
+    list-style-image: url("/img/corazon.png");
 }
 
 #listas .customico li li li {
@@ -399,8 +399,14 @@ h1 {
 }
 
 .btn-blue {
-    background-color: rgb(75, 59, 255);
+    background-color: rgb(0, 0, 255);
+    box-shadow: 0 0 10px whitesmoke;
     color: white;
+}
+
+.btn-blue:hover{
+    background-color: rgb(75, 60, 255);
+    box-shadow: 0 0 15px yellow;
 }
 
 .col3 {
@@ -441,3 +447,4 @@ h6{
     text-shadow: 0.5px 0.5px rgba(255, 0, 255, 1);
     
 }
+
