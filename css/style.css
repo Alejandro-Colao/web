@@ -138,15 +138,17 @@ nav li {
 nav li a {
     color: whitesmoke;
 }
-nav li{
+
+nav li {
     background-color: rgb(13, 17, 23);
 }
+
 nav li:hover {
     background-color: rgb(41, 144, 59);
     border-radius: 5px;
 }
 
-nav li a:hover{
+nav li a:hover {
     color: white;
 }
 
@@ -233,7 +235,8 @@ h1 {
     text-decoration: underline;
     font-size: 24px;
 }
-#enlaces a:hover{
+
+#enlaces a:hover {
     color: rgb(1, 4, 9);
     background-color: rgb(255, 255, 0);
     border-radius: 5px;
@@ -360,7 +363,7 @@ h1 {
     color: #128c86;
 }
 
-.horario th i{
+.horario th i {
     font-weight: bold;
     color: #128c86;
     font-size: x-large;
@@ -411,7 +414,7 @@ h1 {
     color: white;
 }
 
-.btn-blue:hover{
+.btn-blue:hover {
     background-color: rgb(75, 60, 255);
     box-shadow: 0 0 15px yellow;
 }
@@ -426,49 +429,49 @@ h1 {
     border-radius: 10px;
 }
 
-h1{
+h1 {
     color: white;
     text-shadow: 0 0 5px rgba(255, 255, 0, 1), 0 0 13px rgb(0, 255, 255, 0.875), 0 0 20px rgba(255, 0, 0, 0.750);
     font-size: 33px;
 }
 
-h2{
-    text-shadow: 0 0 10px rgba(255, 0, 255, 1), 0 0 15px rgb(0, 255, 255, 0.875), 0 0 20px rgba(255, 0, 0, 0.750);    
+h2 {
+    text-shadow: 0 0 10px rgba(255, 0, 255, 1), 0 0 15px rgb(0, 255, 255, 0.875), 0 0 20px rgba(255, 0, 0, 0.750);
 }
 
-h3{
+h3 {
     text-shadow: 1px 1px rgba(0, 0, 255, 1);
 }
 
-h4{
+h4 {
     text-shadow: 0.5px 0.5px rgba(255, 0, 0, 1);
-    
+
 }
 
-h5{
+h5 {
     text-shadow: 0.5px 0.5px rgba(255, 255, 0, 1);
-    
+
 }
 
-h6{
+h6 {
     text-shadow: 0.5px 0.5px rgba(255, 0, 255, 1);
-    
+
 }
 
-.fotos{
+.fotos {
     margin: 0 auto;
     width: 80%;
 }
 
-.fotos img{
+.fotos img {
     padding: 5px;
 }
 
-iframe{
+iframe {
     display: block;
     margin: 0 auto;
 }
 
-.dia{
+.dia {
     color: rgb(123, 153, 150);
 }
