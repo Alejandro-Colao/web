@@ -264,7 +264,7 @@ h1 {
 }
 
 #listas .customico li li {
-    list-style-image: url("/img/corazon.png");
+    list-style-image: url("img/corazon.png");
 }
 
 #listas .customico li li li {
@@ -303,6 +303,7 @@ h1 {
     margin: 0 auto;
     text-align: center;
     background-color: white;
+    border-color: rgb(123, 153, 150);
 }
 
 .LMSG {
@@ -357,6 +358,12 @@ h1 {
 
 .horario th {
     color: #128c86;
+}
+
+.horario th i{
+    font-weight: bold;
+    color: #128c86;
+    font-size: x-large;
 }
 
 .formlogin {
@@ -448,3 +455,20 @@ h6{
     
 }
 
+.fotos{
+    margin: 0 auto;
+    width: 80%;
+}
+
+.fotos img{
+    padding: 5px;
+}
+
+iframe{
+    display: block;
+    margin: 0 auto;
+}
+
+.dia{
+    color: rgb(123, 153, 150);
+}
